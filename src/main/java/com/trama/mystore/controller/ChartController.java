@@ -1,10 +1,6 @@
 package com.trama.mystore.controller;
 
-import java.util.List;
-
 import com.trama.mystore.chart.Chart;
-import com.trama.mystore.chart.Item;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
